@@ -38,9 +38,9 @@ html,body{height:auto;min-height:100%;overflow-y:auto}body:not(.nav-open){overfl
   .page-shell .blue{height:375px;top:52px;width:200px}
   .page-shell .orange{height:257px;right:-55px;top:221px;transform:none;width:206px}
 }
-.page-shell .lavender{background:transparent url("assets/hero-lavender-original.png") center/100% 100% no-repeat;border-radius:0}
-.page-shell .blue{background:transparent url("assets/hero-blue-smooth.png") center/100% 100% no-repeat;border-radius:0}
-.page-shell .orange{background:transparent url("assets/hero-orange-original.png") center/100% 100% no-repeat;border-radius:0}
+.page-shell .lavender{background:transparent url("hero-lavender-original.png") center/100% 100% no-repeat;border-radius:0}
+.page-shell .blue{background:transparent url("hero-blue-smooth.png") center/100% 100% no-repeat;border-radius:0}
+.page-shell .orange{background:transparent url("hero-orange-original.png") center/100% 100% no-repeat;border-radius:0}
 .page-shell .hero h1{font-weight:300}
 @media(max-width:720px){.project-card{height:auto;min-height:0}}
 
